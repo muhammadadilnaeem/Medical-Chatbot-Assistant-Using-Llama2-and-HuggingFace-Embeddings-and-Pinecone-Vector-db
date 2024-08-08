@@ -1,0 +1,8 @@
+I plan to use quantized Meta-Llama-3.1-8B-I from huggingface as primary model for text generation
+
+
+here is the link:   https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/blob/main/Meta-Llama-3.1-8B-Instruct-Q3_K_XL.gguf
+
+Second model is embedding model which is all-MiniLM-L6-v2 main file is model.safetensors with 368 diamentions
+
+here is the link: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
