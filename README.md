@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/5f284cde-532f-4c96-9258-1b2760d254ee
 
 ## **📄 License**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhammadadilnaeem/Medical-Chatbot-Assistant-Using-Llama2-and-HuggingFace-Embeddings-and-Pinecone-Vector-db/blob/main/LICENSE) file for more details.
 
 
 ## **📧 Contact**
