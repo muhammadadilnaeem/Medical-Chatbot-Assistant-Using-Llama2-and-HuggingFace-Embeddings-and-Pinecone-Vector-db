@@ -6,6 +6,7 @@ pinecone-client
 langchain
 langchain-community
 langchain-huggingface
+langchain-groq
 flask
 pypdf
 python-dotenv
