@@ -7,6 +7,12 @@ Welcome to the **Medical Chatbot Assistant** project! This repository contains a
 
 https://github.com/user-attachments/assets/5f284cde-532f-4c96-9258-1b2760d254ee
 
+<br>
+
+
+https://github.com/user-attachments/assets/751fa823-1140-45a4-82b5-5181e8fabb69
+
+
 
 ## **🚀 Features**
 
